@@ -1,4 +1,4 @@
-![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/5d96d646847841.586690decaada.gif)
 <h1 align="center">Hi 👋, I'm Sudhir Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="left" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">

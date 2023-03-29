@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsudhir-kumar" alt="iamsudhir-kumar" /></a> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **React Js, React Native**
 
 - 📫 How to reach me **sudhirk33835@gmail.com**
 

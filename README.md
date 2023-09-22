@@ -2,7 +2,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="left" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsudhir-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="iamsudhir-kumar" /> </p>
-[![IamSudhir-Kumar's GitHub | Stats](https://stats.quine.sh/IamSudhir-Kumar/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=IamSudhir-Kumar)
+https://stats.quine.sh/IamSudhir-Kumar/github?theme=dark)
+https://quine.sh?utm_source=widgets&utm_campaign=IamSudhir-Kumar
 - 🌱 I’m currently learning **React Js, React Native**
 
 - 📫 How to reach me **sudhirk33835@gmail.com**

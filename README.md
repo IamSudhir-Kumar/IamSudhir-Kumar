@@ -1,4 +1,4 @@
-![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)
+[![IamSudhir-Kumar's GitHub | Dependencies](https://stats.quine.sh/IamSudhir-Kumar/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=IamSudhir-Kumar)
 <h1 align="center">Hi 👋, I'm Sudhir Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="left" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
@@ -24,4 +24,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsudhir-kumar&show_icons=true&locale=en&layout=compact" alt="iamsudhir-kumar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsudhir-kumar&" alt="iamsudhir-kumar" /></p>
-[![IamSudhir-Kumar's GitHub | Dependencies](https://stats.quine.sh/IamSudhir-Kumar/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=IamSudhir-Kumar)

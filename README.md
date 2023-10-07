@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Currently Working On: Exploring exciting web projects and actively seeking job opportunities in frontend development.<br><br>🤝 Collaboration: Frontend web projects & open source.<br><br>🌱 Learning: Advanced JavaScript & React.<br><br>💬 Ask Me: Web dev, coding challenges.<br><br>⚡ Fun Fact: I'm a nature lover, avid hiker, and a movie buff! 🍿🎥
+👨‍💻 Currently Working On: Exploring exciting web projects and actively seeking job opportunities in frontend development.<br><br>🤝 Collaboration: Frontend web projects & open source.<br><br>🌱 Learning: Typescript & React.<br><br>💬 Ask Me: Web dev, coding challenges.<br><br>⚡ Fun Fact: I'm a nature lover, avid hiker, and a movie buff! 🍿🎥
 
 
 ## 🌐 Socials:

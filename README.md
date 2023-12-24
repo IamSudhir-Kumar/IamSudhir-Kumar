@@ -14,7 +14,7 @@
 
 [![An image of @iamsudhirkumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamsudhirkumar)](https://holopin.io/@iamsudhirkumar)
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br/>
 [![IamSudhir-Kumar's GitHub | Dependencies](https://stats.quine.sh/IamSudhir-Kumar/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=IamSudhir-Kumar)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
